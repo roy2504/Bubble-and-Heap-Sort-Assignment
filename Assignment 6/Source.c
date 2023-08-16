@@ -2,7 +2,7 @@
 #include "heap.h"
 
 //Gitesh - DSA - Assignment 6 - S23
-
+//
 int main(void) {
 	
     int array1[ARRAY_SIZE];
